@@ -9,6 +9,7 @@ const Search = () => {
 						type="text"
 						id="searchInput"
 						placeholder="Search..."
+						onChange={(e) => setInput(e.target)}
 					/>
 				</div>
 			</form>

@@ -21,7 +21,7 @@ const Header = () => {
 								Categories
 							</Link>
 						</li>
-						<li>
+						{/* <li>
 							<Link className="inline-block mr-3 text-white uppercase" href="#">
 								about
 							</Link>
@@ -30,7 +30,7 @@ const Header = () => {
 							<Link className="inline-block mr-3 text-white uppercase" href="#">
 								Contact
 							</Link>
-						</li>
+						</li> */}
 					</ul>
 				</nav>
 			</div>
