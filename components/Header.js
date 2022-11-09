@@ -17,8 +17,8 @@ const Header = () => {
 						<li>
 							<Link
 								className="inline-block mr-3 text-white uppercase"
-								href="/categories">
-								Categories
+								href="/about">
+								about
 							</Link>
 						</li>
 						{/* <li>

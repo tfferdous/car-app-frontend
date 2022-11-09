@@ -17,6 +17,10 @@ module.exports = {
 			minHeight: {
 				"min-h-28": "280px",
 			},
+
+			maxHeight: {
+				"max-h-4/5": "80vh",
+			},
 		},
 		screens: {
 			md: "768px",
